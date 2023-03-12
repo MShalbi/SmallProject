@@ -1,6 +1,5 @@
-version: 2.1
+version: '2.1'
 jobs:  
-  # Exercise: Infrastructure Creation
   # Exercise - Rollback
   create_infrastructure: 
     docker:
