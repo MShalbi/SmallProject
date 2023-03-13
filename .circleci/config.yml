@@ -1,6 +1,6 @@
 version: '2.1'
 jobs:  
-  # Exercise - Rollback
+  # Exercise - Create infrastructure
   create_infrastructure: 
     docker:
       - image: amazon/aws-cli
